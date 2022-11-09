@@ -4,4 +4,4 @@ A Discord bot that allows users in the server chat to use a single command to au
 
 To use:
 
-While the bot is online in the discord server, type anywhere in chat "!build (champion name)"
+While the bot is online in the discord server, type in any channel "!build (champion name)"
